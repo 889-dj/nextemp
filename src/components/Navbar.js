@@ -221,7 +221,7 @@ const Navbar = () => {
             <motion.a
               target={"_blank"}
               className="w-6 mr-3"
-              href="https://github.com/lilxyzz"
+              href="https://github.com/889-dj"
               whileHover={{ y: -2 }}
               whileTap={{ scale: 0.9 }}
               aria-label="Checkout my Github profile"
@@ -232,7 +232,7 @@ const Navbar = () => {
             <motion.a
               target={"_blank"}
               className="w-6 mx-3 bg-light rounded-full"
-              href="https://medium.com/@travis.lord"
+              href="https://medium.com/@dj178167"
               whileHover={{ y: -2 }}
               whileTap={{ scale: 0.9 }}
               aria-label="Checkout my Medium profile"
@@ -242,7 +242,7 @@ const Navbar = () => {
             <motion.a
               target={"_blank"}
               className="w-6 mx-3"
-              href="https://dev.to/lilxyzz"
+              href="https://dev.to/dev_jain"
               whileHover={{ y: -2 }}
               whileTap={{ scale: 0.9 }}
               aria-label="Checkout my Dev.to profile"
@@ -252,7 +252,7 @@ const Navbar = () => {
             <motion.a
               target={"_blank"}
               className="w-6 mx-3"
-              href="https://dev.to/lilxyzz"
+              href="https://dev.to/dev_jain"
               whileHover={{ y: -2 }}
               whileTap={{ scale: 0.9 }}
               aria-label="My Dev.to profile"

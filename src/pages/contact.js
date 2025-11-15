@@ -61,9 +61,8 @@ export default function About() {
       >
         <Layout className="pt-16">
           <AnimatedText
-            text="Begin Today,
-I'm One Message Away 👋"
-            className="mb-16 !text-8xl !leading-tight lg:!text-7xl sm:!text-6xl xs:!text-4xl sm:mb-8"
+            text="Begin Today, I'm One Message Away 👋"
+            className="mb-16 !text-6xl !leading-tight lg:!text-7xl sm:!text-4xl xs:!text-4xl sm:mb-8"
           />
 
           <div className="grid w-full grid-cols-8 gap-16 sm:gap-8 relative flex w-full flex-col items-center justify-center rounded-2xl rounded-br-2xl border border-solid border-dark bg-light p-6 shadow-2xl dark:border-light dark:bg-dark xs:p-4">

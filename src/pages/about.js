@@ -52,7 +52,7 @@ export default function About() {
         <Layout className="pt-16">
           <AnimatedText
             text="Let Passion Lead Your Purpose 🔥"
-            className="mb-16 !text-8xl !leading-tight lg:!text-7xl sm:!text-6xl xs:!text-4xl sm:mb-8"
+            className="mb-16 !text-6xl !leading-tight lg:!text-7xl sm:!text-4xl xs:!text-4xl sm:mb-8"
           />
 
           <div className="grid w-full grid-cols-8 gap-16 sm:gap-8">
@@ -113,7 +113,7 @@ export default function About() {
             xl:items-center md:order-3"
             >
               <div className="flex flex-col items-end justify-center xl:items-center">
-                <span className="inline-block text-7xl font-bold md:text-6xl sm:text-5xl xs:text-4xl">
+                <span className="inline-block text-7xl font-bold md:text-6xl sm:text-3xl xs:text-4xl">
                   <AnimatedNumberFramerMotion value={1461} />+
                 </span>
                 <h3
@@ -125,7 +125,7 @@ export default function About() {
               </div>
 
               <div className="flex flex-col items-end justify-center xl:items-center">
-                <span className="inline-block text-7xl font-bold md:text-6xl sm:text-5xl xs:text-4xl">
+                <span className="inline-block text-7xl font-bold md:text-6xl sm:text-3xl xs:text-4xl">
                   <AnimatedNumberFramerMotion value={500} />
                 </span>
                 <h3
@@ -137,7 +137,7 @@ export default function About() {
               </div>
 
               <div className="flex flex-col items-end justify-center xl:items-center">
-                <span className="inline-block text-7xl font-bold md:text-6xl sm:text-5xl xs:text-4xl">
+                <span className="inline-block text-7xl font-bold md:text-6xl sm:text-3xl xs:text-4xl">
                   <AnimatedNumberFramerMotion value={499} />
                 </span>
                 <h3
